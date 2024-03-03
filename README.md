@@ -1,9 +1,10 @@
-<h1 align="center">Hi 👋, I'm Ashish Sahu</h1>
+![logo](https://raw.githubusercontent.com/mrsahuashish/mrsahuashish/main/ashish%20sahu%20banner.png)
+<!-- <h1 align="center">Hi 👋, I'm Ashish Sahu</h1> -->
 <h3 align="center">Software Engineer | Full Stack | React Js | Node JS | NEXT JS | PHP | Laravel | Codeigniter | MySql | MongoDB</h3>
-
+<img align="right" alt="ashish sahu" width="400" src="https://raw.githubusercontent.com/mrsahuashish/mrsahuashish/main/ashish-sahu-coding.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mrsahuashish&label=Profile%20views&color=0e75b6&style=flat" alt="mrsahuashish" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mrsahuashish" alt="mrsahuashish" /></a> </p>
+<!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mrsahuashish" alt="mrsahuashish" /></a> </p> -->
 
 - 🔭 I’m currently working on **Developing a dynamic web application integrating React, Node.js, and MongoDB for enhanced user experiences.**
 
