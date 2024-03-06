@@ -8,12 +8,12 @@
 <h5 align="center">Below are a few links you can visit and some stats to look at too</h5>
 
 <p align="center">
- <a href="https://twitter.com/mrsahuashish"><img alt="Discord" title="Twitter" src="https://img.shields.io/badge/-Twitter-03a9f4?style=for-the-badge&logo=twitter&logoColor=white"/></a>
-  <a href="https://linkedin.com/in/mrsahuashish"><img alt="Linkedin" title="Linkedin" src="https://img.shields.io/badge/-Linkedin-1976d2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://stackoverflow.com/users/23340623"><img alt="StackOverflow" title="StackOverflow" src="https://img.shields.io/badge/stack%20overflow-FE7A16?logo=stack-overflow&logoColor=white&style=for-the-badge"/></a>
-  <a href="https://fb.com/mrsahuashish"><img alt="Facebook" title="Facebook" src="https://img.shields.io/badge/-Facebook-1976d2?style=for-the-badge&logo=Facebook&logoColor=white"/></a>
-  <a href="https://instagram.com/mrsahuashish"><img alt="Instagram" title="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-  <a href="https://github.com/mrsahuashish"><img alt="Github" title="Github" src="https://img.shields.io/badge/Github-555555?style=for-the-badge&logo=github&logoColor=white"/></a>
+ <a href="https://twitter.com/mrsahuashish" target="_blank"><img alt="Discord" title="Twitter" src="https://img.shields.io/badge/-Twitter-03a9f4?style=for-the-badge&logo=twitter&logoColor=white"/></a>
+  <a href="https://linkedin.com/in/mrsahuashish" target="_blank"><img alt="Linkedin" title="Linkedin" src="https://img.shields.io/badge/-Linkedin-1976d2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://stackoverflow.com/users/23340623" target="_blank"><img alt="StackOverflow" title="StackOverflow" src="https://img.shields.io/badge/stack%20overflow-FE7A16?logo=stack-overflow&logoColor=white&style=for-the-badge"/></a>
+  <a href="https://fb.com/mrsahuashish" target="_blank"><img alt="Facebook" title="Facebook" src="https://img.shields.io/badge/-Facebook-1976d2?style=for-the-badge&logo=Facebook&logoColor=white"/></a>
+  <a href="https://instagram.com/mrsahuashish" target="_blank"><img alt="Instagram" title="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+  <a href="https://github.com/mrsahuashish" target="_blank"><img alt="Github" title="Github" src="https://img.shields.io/badge/Github-555555?style=for-the-badge&logo=github&logoColor=white"/></a>
 </p>
  
 ## Profile Views
