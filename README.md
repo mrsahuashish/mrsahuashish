@@ -1,9 +1,12 @@
 ## Introduction
 ![logo](https://raw.githubusercontent.com/mrsahuashish/mrsahuashish/main/ashish%20sahu%20banner.png)
+
 <p align="center">
 <img src="https://readme-typing-svg.demolab.com/?lines=5+%2B%20years%20of%20coding%20experience&font=Fira%20Code&center=true&width=700&height=45&color=142847&vCenter=true&pause=1000&size=25" /></a>
 </p>
+
 <h3 align="center">Hey there, I'm <a href="https://github.com/mrsahuashish">Ashish Sahu</a></h3>
+
 <h5 align="center">Below are a few links you can visit and some stats to look at too</h5>
 <p align="center">
  <a href="https://twitter.com/mrsahuashish" target="_blank"><img alt="Discord" title="Twitter" src="https://img.shields.io/badge/-Twitter-03a9f4?style=for-the-badge&logo=twitter&logoColor=white"/></a>
