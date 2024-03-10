@@ -70,6 +70,7 @@
      <a href="https://github.com/mrsahuashish/firebase-otp-verification-laravel"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=mrsahuashish&repo=firebase-otp-verification-laravel&theme=react&bg_color=1F222E&title_color=F8D866&hide_border=true&icon_color=F8D866&show_icons=false" alt="github-readme-streak-stats"></a>
     <a href="https://github.com/mrsahuashish/pithy"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=mrsahuashish&repo=pithy&theme=react&bg_color=1F222E&title_color=F8D866&hide_border=true&icon_color=F8D866&show_icons=false" alt="github-readme-streak-stats"></a>
    <a href="https://github.com/mrsahuashish/stockMarketDemo"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=mrsahuashish&repo=stockMarketDemo&theme=react&bg_color=1F222E&title_color=F8D866&hide_border=true&icon_color=F8D866&show_icons=false" alt="github-readme-streak-stats"></a>
+   <a href="https://github.com/mrsahuashish/ticket-book"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=mrsahuashish&repo=ticket-book&theme=react&bg_color=1F222E&title_color=F8D866&hide_border=true&icon_color=F8D866&show_icons=false" alt="github-readme-streak-stats"></a>
   </p>
 
 ###
