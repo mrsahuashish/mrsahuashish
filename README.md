@@ -18,7 +18,6 @@
   <a href="https://github.com/mrsahuashish" target="_blank"><img alt="Github" title="Github" src="https://img.shields.io/badge/Github-555555?style=for-the-badge&logo=github&logoColor=white"/></a>
 </p>
 
- 
 ## Profile Views
   <table>
     <tr>
