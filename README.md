@@ -68,7 +68,7 @@
 ## Top Respositorys
   <p align="left">
    <a href="https://github.com/mrsahuashish/Laravel11-React-Project-Management-App"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=mrsahuashish&repo=Laravel11-React-Project-Management-App&theme=react&bg_color=1F222E&title_color=F8D866&hide_border=true&icon_color=F8D866&show_icons=false" alt="github-readme-streak-stats"></a>
-   <a href="https://github.com/mrsahuashish/Portfolio-NextJS"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=mrsahuashish&repo=Portfolio-NextJS&theme=react&bg_color=1F222E&title_color=F8D866&hide_border=true&icon_color=F8D866&show_icons=false" alt="github-readme-streak-stats"></a>
+  
      <a href="https://github.com/mrsahuashish/firebase-otp-verification-laravel"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=mrsahuashish&repo=firebase-otp-verification-laravel&theme=react&bg_color=1F222E&title_color=F8D866&hide_border=true&icon_color=F8D866&show_icons=false" alt="github-readme-streak-stats"></a>
    <a href="https://github.com/mrsahuashish/Foodies-Website-Bootstrap5"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=mrsahuashish&repo=Foodies-Website-Bootstrap5&theme=react&bg_color=1F222E&title_color=F8D866&hide_border=true&icon_color=F8D866&show_icons=false" alt="github-readme-streak-stats"></a>
     <a href="https://github.com/mrsahuashish/pithy"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=mrsahuashish&repo=pithy&theme=react&bg_color=1F222E&title_color=F8D866&hide_border=true&icon_color=F8D866&show_icons=false" alt="github-readme-streak-stats"></a>
